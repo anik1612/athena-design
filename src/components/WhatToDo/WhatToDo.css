@@ -17,5 +17,7 @@
     background-color: #fff;
 }
 .todo-wrapper {
-    background-color: lightskyblue;
+    background-image: url("/src/images/Illustration/Path\ 74.png");
+    background-size: cover;
+    background-position: center;
 }
