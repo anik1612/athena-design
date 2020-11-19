@@ -1,6 +1,7 @@
 import React from 'react';
 import Achievement from '../../components/Achievement/Achievement';
 import Contact from '../../components/Contact/Contact';
+import Footer from '../../components/Footer/Footer';
 import HomeBanner from '../../components/HomeBanner/HomeBanner';
 import Navbar from '../../components/Navbar/Navbar';
 import RunningProject from '../../components/RunningProject/RunningProject';
@@ -17,6 +18,7 @@ const Home = () => {
             <Achievement />
             <Team/>
             <Contact/>
+            <Footer />
         </>
     );
 };
