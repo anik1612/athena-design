@@ -6,8 +6,6 @@ import linkedIn from '../../images/Illustration/linkedin (2)@2x.png';
 import twitter from '../../images/Illustration/twitter (4)@2x.png';
 import dribble from '../../images/Illustration/dribbble (1)@2x.png';
 
-
-
 const Footer = () => {
     return (
         <footer className = 'container footer mb-5'>
