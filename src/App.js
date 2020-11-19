@@ -1,11 +1,13 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Achievement from './components/Achievement/Achievement';
+import Home from './page/Home/Home';
 
 function App() {
   return (
     <div>
-      <h1>Hello Guys ! Start Working</h1>
-    </div>
+      <Home />
+    </div >
   );
 }
 
