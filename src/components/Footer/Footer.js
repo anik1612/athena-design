@@ -8,7 +8,7 @@ import dribble from '../../images/Illustration/dribbble (1)@2x.png';
 
 const Footer = () => {
     return (
-        <footer className = 'container footer mb-5'>
+        <footer className = 'container footer mb-5 pt-5'>
             <div className = 'row'>
                 <div className="col-md-3">
                     <div>

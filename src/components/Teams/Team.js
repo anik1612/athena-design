@@ -6,7 +6,7 @@ const Team = () => {
     const [preferredButtonShow, setPreferredButtonShow] = useState(false);
     const [eliteButtonShow, setEliteButtonShow] = useState(false);
     return (
-        <section className = 'container teams mb-5 pt-4 text-center'>
+        <section className = 'container teams mb-5 pt-4 text-center pb-5'>
             <h3 className = 'text-center m-5 p-5'>Choose Your Dedicated Team</h3>
             <div>
                 <div className="row">
