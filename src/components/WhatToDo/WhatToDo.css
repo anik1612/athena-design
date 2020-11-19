@@ -1,0 +1,23 @@
+.todo-title {
+    width: 400px;
+    margin: 20px auto;
+}
+/* .todo-detail {
+    margin-top: 60px;
+} */
+.todo-detail img {
+    height: 80px;
+    margin: 15px 0;
+}
+.todo {
+    transition: all 0.2s ease;
+}
+.todo:hover {
+    border-radius: 70px 5px;
+    background-color: #fff;
+}
+.todo-wrapper {
+    background-image: url("/src/images/Illustration/Path\ 74.png");
+    background-size: cover;
+    background-position: center;
+}
