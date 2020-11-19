@@ -1,10 +1,11 @@
 
 import './App.css';
+import Achievement from './components/Achievement/Achievement';
 
 function App() {
   return (
     <div>
-      <h1>Hello Guys ! Start Working</h1>
+      <Achievement />
     </div >
   );
 }
