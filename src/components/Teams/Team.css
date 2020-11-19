@@ -1,5 +1,7 @@
 .teams{
-    transition: all 0.3s;
+    background-image: url('../../images/Illustration/Group\ 46@2x.png');
+    background-size: cover;
+    background-position: top;
 }
 .team{
     box-shadow: 0px 0px 10px 5px #e1fffa;
