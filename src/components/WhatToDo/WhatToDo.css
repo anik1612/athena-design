@@ -17,5 +17,11 @@
     background-color: #fff;
 }
 .todo-wrapper {
+<<<<<<< HEAD
+    background-image: url("/src/images/Illustration/Path\ 74.png");
+    background-size: cover;
+    background-position: center;
+=======
     background-color: #e7e7e7;
+>>>>>>> master
 }
