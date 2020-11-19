@@ -9,10 +9,10 @@ const Contact = () => {
                 <p>Be the first know our latest offers and updates!</p>
             </div>
             <div className = 'row justify-content-center'>
-                <div class="input-group mb-3 col-md-8">
-                    <input type="text" class="form-control" placeholder="Enter your email address" aria-label="Recipient's username" aria-describedby="basic-addon2"/>
-                    <div class="input-group-append">
-                        <button class="btn" type="button">Get Started</button>
+                <div className="input-group mb-3 col-md-8">
+                    <input type="text" className="form-control" placeholder="Enter your email address" aria-label="Recipient's username" aria-describedby="basic-addon2"/>
+                    <div className="input-group-append">
+                        <button className="btn" type="button">Get Started</button>
                     </div>
                 </div>
             </div>
