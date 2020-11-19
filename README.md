@@ -8,8 +8,7 @@
 * Upcoming (Still Working on it)
 
 ## Team Member 
-* Anik Sarker
 * Arafat Hossain
 * Abdul Basir
-
+* Anik Sarker
 
