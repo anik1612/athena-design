@@ -1,22 +1,16 @@
 
 import './App.css';
-<<<<<<< HEAD
+import HomeBanner from './Component/HomeBanner/HomeBanner';
 import Navbar from './Component/Navbar/Navbar';
-=======
-import Achievement from './components/Achievement/Achievement';
-import Home from './page/Home/Home';
->>>>>>> 0b71657023acce438fc7704f444beca3630d11a4
+import WhatToDo from './Component/WhatToDo/WhatToDo';
 
 function App() {
   return (
     <div>
-<<<<<<< HEAD
       <Navbar></Navbar>
-    </div>
-=======
-      <Home />
+      <HomeBanner></HomeBanner>
+      <WhatToDo></WhatToDo>
     </div >
->>>>>>> 0b71657023acce438fc7704f444beca3630d11a4
   );
 }
 
