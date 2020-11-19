@@ -4,3 +4,15 @@
 .banner-detail p {
     font-size: 13px;
 }
+
+body{
+    background-image: url('../../images/Illustration/Ellipse\ 14.png');
+    background-repeat: no-repeat;
+    background-position: 5% 1%;
+}
+
+.banner-img{
+    background-image: url('../../images/Illustration/Ellipse\ 11.png');
+    background-repeat: no-repeat;
+    background-position: -7% -3%;
+}

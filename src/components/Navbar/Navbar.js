@@ -2,7 +2,7 @@ import React from 'react';
 import './Navbar.css'
 const Navbar = () => {
     return (
-        <div>
+        <div id='navbar-section'>
             <div className="navbar-wrapper container">
                 <nav className="navbar navbar-expand-lg navbar-light">
                     <a className="navbar-brand" href="/"><img src="https://i.ibb.co/s1Ct6nR/Group-86.png" alt="" /></a>

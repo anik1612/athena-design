@@ -8,8 +8,8 @@ import './Achievement.css';
 const Achievement = () => {
     return (
         <section className = 'container achievement'>
-            <div className="row">
-                <div className="col-md-4">
+            <div className="row d-flex justify-content-between">
+                <div className="col-md-5">
                     <div className = 'mt-5 pt-2'>
                         <div className = ''>
                             <h1>Our Achievements</h1>
