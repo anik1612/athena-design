@@ -7,7 +7,7 @@ import './Achievement.css';
 
 const Achievement = () => {
     return (
-        <section className = 'container-fluid achievement'>
+        <section className = 'container achievement'>
             <div className="row">
                 <div className="col-md-4">
                     <div className = 'mt-5 pt-2'>
@@ -46,7 +46,7 @@ const Achievement = () => {
                         <div className="col-md-6">
                             <div className = 'm-2 p-4 achieves minds'>
                                 <div className = 'd-flex justify-content-center'>
-                                    <div className = 'mr-4'><img src={minds} alt=""/></div>
+                                    <div className = 'mr-4'><img src={runningProject} alt=""/></div>
                                     <div>
                                         <h3>25+</h3>
                                         <p>Crazy Minds</p>
@@ -57,7 +57,7 @@ const Achievement = () => {
                         <div className="col-md-6">
                             <div className = 'm-2 p-4 achieves running'>
                                 <div className = 'd-flex justify-content-center'>
-                                    <div className = 'mr-4'><img src={runningProject} alt=""/></div>
+                                    <div className = 'mr-4'><img src={minds} alt=""/></div>
                                     <div>
                                         <h3>75+</h3>
                                         <p>Running Projects</p>
