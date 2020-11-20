@@ -11,7 +11,7 @@
 * https://athena-scic.netlify.app
 
 ## Team Member 
-* Arafat Hossain
-* Abdul Basir
-* Anik Sarker
+* [Arafat Hossain](https://www.facebook.com/arafathossain.ar)
+* [Abdul Basir](https://www.facebook.com/basir5101/)
+* [Anik Sarker](https://www.facebook.com/AnikSarker1612)
 
