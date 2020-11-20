@@ -7,6 +7,7 @@ import Navbar from '../../components/Navbar/Navbar';
 import RunningProject from '../../components/RunningProject/RunningProject';
 import Team from '../../components/Teams/Team';
 import WhatToDo from '../../components/WhatToDo/WhatToDo';
+import './Home.css'
 
 const Home = () => {
     return (
