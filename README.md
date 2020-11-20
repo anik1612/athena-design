@@ -5,7 +5,7 @@
 * CSS3
 
 ## Live Site Link 
-* Upcoming (Still Working on it)
+* https://athena-scic.netlify.app
 
 ## Team Member 
 * Arafat Hossain
