@@ -1,7 +1,7 @@
-.todo-title {
+/* .todo-title {
     width: 400px;
     margin: 20px auto;
-}
+} */
 /* .todo-detail {
     margin-top: 60px;
 } */
@@ -15,8 +15,10 @@
 .todo:hover {
     border-radius: 70px 5px;
     background-color: #fff;
+    cursor: pointer;
 }
 .todo-wrapper {
+    background-color: #fafafa;
     background-image: url("/src/images/Illustration/Path\ 74.png");
     background-size: cover;
     background-position: center;

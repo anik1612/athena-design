@@ -17,7 +17,7 @@ const Achievement = () => {
                         </div>
                     </div>
                 </div>
-                <div className="col-md-7">
+                <div className="col-md-7 mt-md-0 mt-5">
                     <div className="row">
                         <div className="col-md-6">
                             <div className = "m-2 p-4 achieves clients">
