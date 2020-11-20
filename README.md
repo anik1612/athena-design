@@ -1,5 +1,8 @@
 # Group Project (SCIC Task)
 
+## UI SCREENSHOT
+<img src='https://i.ibb.co/YLdFyZB/athena-1.jpg' alt='ui-screenshot'/>
+
 ## Technology
 * React JS
 * CSS3
